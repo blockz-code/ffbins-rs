@@ -1,15 +1,13 @@
 # ffbins-rs
 
----
-
-PluginSystem build with [deno-core](https://github.com/denoland/deno_core)
+> Another ffmpeg wrapper
 
 ---
 
 **Cargo.toml**
 
 ```toml
-ffbins-rs = { git = "https://github.com/blockz-dev/ffbins-rs", branch = "dev" }
+ffbins-rs = { version = "0.1.1" }
 ```
 
 > Not ready yet and not tested ... its made for plugin-rs
