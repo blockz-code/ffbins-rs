@@ -1,11 +1,11 @@
 [package]
 name = "ffbins-rs"
 links = "ffbins-rs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "another ffmpeg wrapper"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/blockz-code/plugins-rs"
+repository = "https://github.com/blockz-code/ffbins-rs"
 readme = "README.md"
 keywords = ["ffmpeg"]
 categories = ["development-tools"]
