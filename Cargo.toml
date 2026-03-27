@@ -4,6 +4,14 @@ links = "ffbins-rs"
 version = "0.1.0"
 edition = "2021"
 
+description = "another ffmpeg wrapper"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/blockz-code/plugins-rs"
+readme = "README.md"
+keywords = ["ffmpeg"]
+categories = ["development-tools"]
+authors = ["p1mo <101986259+p1mo@users.noreply.github.com>"]
+
 [dev-dependencies]
 anyhow = { version = "1.0.102" }
 dirs = { version = "6.0.0" }
