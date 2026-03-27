@@ -1,6 +1,6 @@
 //! FFBins - A rust crate for static FFmpeg binaries
 //! ---
-//! ##### Currently supports on
+//! ##### Supports on
 //! + **windows:** `ffmpeg`, `ffprobe`, `ffplay`
 //! + **linux:** `ffmpeg`, `ffprobe`, `ffplay`
 //! + **macos:** `ffmpeg`, `ffprobe`, `ffplay`
